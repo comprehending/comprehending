@@ -7,6 +7,7 @@ If you find something useful for yourself, I will be glad.
 
 | Name | Description | Libraries |
 | :-------------------- | :--------------------- |:---------------------------|
+| [DVD Rental Company](https://nbviewer.jupyter.org/github/comprehending/DVD-rental-service/blob/2843e30ddb88ff022bbc993bd5e85c0f1db7647b/DVD%20Rental%20Company.ipynb) |  Our task is to analyze data of DVD Rental Store | SQLalchemy, Seaborn, Squarify |
 | [E-commerce Research](https://nbviewer.jupyter.org/github/comprehending/EcommerceResearch/blob/c3bbaea21649aeaba9d09af87b8592f4faa3882e/E-commerce%20research.ipynb) |  Our task is to analyze the assortment of an online HomeGoods store | Nltk, Scipy, Seaborn |
 | [Gym Customer Interaction](https://nbviewer.jupyter.org/github/comprehending/GymCustomerInteraction/blob/46a84176adad0483d1f8ee150b9de82ba585daf2/The%20gym%20is%20developing%20a%20customer%20interaction%20strategy.ipynb) |  The gym chain Model Fitness is developing a customer interaction strategy based on analytical data | Sklearn, Scipy, Seaborn, Joypy |
 | [Book Lovers Application](https://nbviewer.jupyter.org/github/comprehending/BookLoversApplication/blob/770d4e1ccc18148dcb79f3b6ff3eae92974b6341/The%20application%20for%20book%20lovers.ipynb) |  One of the startups is developing a new app for book lovers | SQLalchemy |
